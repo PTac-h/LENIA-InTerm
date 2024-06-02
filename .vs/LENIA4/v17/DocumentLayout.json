@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\gaussiangrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:gaussiangrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|c:\\users\\cascade\\source\\repos\\lenia4\\donnutfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B47D74E-4714-45CF-8736-D938981C1509}|LENIA4.csproj|solutionrelative:donnutfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonnutFilter.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\DonnutFilter.cs",
+              "RelativeDocumentMoniker": "DonnutFilter.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\DonnutFilter.cs",
+              "RelativeToolTip": "DonnutFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:59:33.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GaussianGrowth.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\GaussianGrowth.cs",
+              "RelativeDocumentMoniker": "GaussianGrowth.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\GaussianGrowth.cs",
+              "RelativeToolTip": "GaussianGrowth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:02:44.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Simulation.cs",
+              "RelativeDocumentMoniker": "Simulation.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Simulation.cs",
+              "RelativeToolTip": "Simulation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:56:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fx.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Fx.cs",
+              "RelativeDocumentMoniker": "Fx.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Fx.cs",
+              "RelativeToolTip": "Fx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:40:18.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:39:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Grid.cs",
+              "RelativeDocumentMoniker": "Grid.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Grid.cs",
+              "RelativeToolTip": "Grid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:39:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CASCADE\\source\\repos\\LENIA4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:37:20.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

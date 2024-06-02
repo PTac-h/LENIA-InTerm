@@ -1,0 +1,7 @@
+C:\Users\CASCADE\source\repos\LENIA4\bin\Debug\LENIA4.exe.config
+C:\Users\CASCADE\source\repos\LENIA4\bin\Debug\LENIA4.exe
+C:\Users\CASCADE\source\repos\LENIA4\bin\Debug\LENIA4.pdb
+C:\Users\CASCADE\source\repos\LENIA4\obj\Debug\LENIAINTERM.csproj.AssemblyReference.cache
+C:\Users\CASCADE\source\repos\LENIA4\obj\Debug\LENIAINTERM.csproj.CoreCompileInputs.cache
+C:\Users\CASCADE\source\repos\LENIA4\obj\Debug\LENIA4.exe
+C:\Users\CASCADE\source\repos\LENIA4\obj\Debug\LENIA4.pdb
